@@ -13,7 +13,7 @@ Please refer to the original installation guide [getting_started.md](docs/en/get
 Most of the `TD3D`-related code locates in the following files: 
 [detectors/td3d_instance_segmentor.py](mmdet3d/models/detectors/td3d_instance_segmentor.py),
 [necks/ngfc_neck.py](mmdet3d/models/necks/ngfc_neck.py),
-[decode_heads/td3d_instance_head.py](mmdet3d/models/decode_heads/td3d_instance_head.py).
+[decode_heads/td3d_instance_head.py](mmdet3d/models/decode_heads/old_td3d_instance_head.py).
 
 ### Getting Started
 
